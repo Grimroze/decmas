@@ -1,4 +1,4 @@
-[![PyPI version](https://img.shields.io/pypi/v/decmas.svg)](https://pypi.org/project/decmas/)
+[![PyPI version](https://img.shields.io/pypi/v/decmas.svg)](https://pypi.org/project/decmas/)    # <--users can test this framework 
 # DeMAS: Decentralized Multi-Agent System
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
